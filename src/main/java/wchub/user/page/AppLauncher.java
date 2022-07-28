@@ -1,6 +1,6 @@
 package wchub.user.page;
 
-import org.springframework.bootgit remote add origin git@github.com:RomanManianov/user-page.git.SpringApplication;
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
